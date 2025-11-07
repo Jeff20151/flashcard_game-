@@ -1,0 +1,14 @@
+{
+  "bdbc292ab6ef275dbe7a1883b4cf2e6f": {
+    "leitner": {
+      "43b3a598250118f4f8cf2360e5de7906": 1,
+      "4085d644756326afb2a51c675f82193a": 1,
+      "d6c392d86da43d10c5d368c79525fdf1": 1
+    },
+    "current_idx": 1,
+    "current_card_id": "43b3a598250118f4f8cf2360e5de7906",
+    "studied_ids": [],
+    "shuffle_mode": true,
+    "shuffle_seed": 433584
+  }
+}
